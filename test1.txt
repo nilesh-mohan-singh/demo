@@ -1,0 +1,12 @@
+Till Now what we have done (upto 24 mins of git & github tutorial)
+
+What is Git & GitHub - basic understanding
+Created a GitHub account & created a demo repository and do some commit in README.md file
+Installed VSC & Git locally
+Checked git version and configured git username and email
+
+Now, the main work start
+clone - it means duplicate
+
+git init - you get the hidden folder .git and now tracking started on your folder.
+ls -a
